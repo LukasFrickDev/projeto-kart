@@ -1,0 +1,54 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar{
+    background-color: #042940;
+}
+
+
+.navbar-brand,
+.navbar-brand:hover,
+.nav-link {
+    color: #fff;
+}
+.text-colored-blue {
+    color: #042940;
+}
+
+.nav-link:hover,
+.text-colored{
+    color:#DBF227 ;
+}
+
+.navbar-toggler {
+    background-color: #DBF227;
+}
+
+.nav .nav-link.active{
+    background-color: #DBF227;
+    color: #042940;
+}
+
+.section-title {
+    font-family: Playwrite DE Grund, cursive;
+    
+}
+
+.social-links li {
+    display: inline;
+    list-style: none;
+}
+.social-links a {
+    text-decoration: none;
+}
+
+#eventos,
+#contato {
+    background-color:  #042940;
+}
+
+#eventos p,
+#contato p {
+    color: #fff;
+}
